@@ -1,4 +1,5 @@
 # CSLSB3C - Citation Style for SB3C Conference Abstracts
+By Babak Safa (bsafa3@gatech.edu, twitter: @babaknsafa) Jan 2024
 
 **Disclaimer:** This citation style is designed for SB3C conference abstracts but is not officially endorsed by the conference organizers. Users are advised to use it at their own discretion.
 
@@ -16,3 +17,4 @@ To utilize CSLSB3C in your documents, include the provided CSL file in your cita
 This citation style is not officially sanctioned by the SB3C conference. Users are responsible for ensuring that their citations comply with the specific guidelines provided by the conference organizers. The creators of CSLSB3C are not liable for any inaccuracies or issues arising from the use of this citation style.
 
 **Note:** Always refer to the official SB3C conference guidelines for the most accurate and up-to-date citation requirements.
+
