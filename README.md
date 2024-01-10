@@ -1,5 +1,5 @@
 # CSLSB3C - Citation Style for SB3C Conference Abstracts
-By Babak Safa (bsafa3@gatech.edu, twitter: @babaknsafa) Jan 2024
+By Babak Safa (bsafa3@gatech.edu, twitter: @babaknsafa)
 
 **Disclaimer:** This citation style is designed for SB3C conference abstracts but is not officially endorsed by the conference organizers. Users are advised to use it at their own discretion.
 
