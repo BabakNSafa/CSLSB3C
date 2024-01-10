@@ -8,6 +8,10 @@ CSLSB3C is a citation style tailored for formatting references in SB3C (Society 
 ## Usage
 To utilize CSLSB3C in your documents, include the provided CSL file in your citation management tool, such as Zotero or Mendeley. Please note that while efforts have been made to align with SB3C conventions, this citation style is unofficial, and users are encouraged to verify the accuracy of their citations.
 
+## Example
+[1]	Johnson and Kamm, Investigative Ophthalmology & Visual Science, 24: 320–325, 1983.
+
+
 ## Disclaimer
 This citation style is not officially sanctioned by the SB3C conference. Users are responsible for ensuring that their citations comply with the specific guidelines provided by the conference organizers. The creators of CSLSB3C are not liable for any inaccuracies or issues arising from the use of this citation style.
 
